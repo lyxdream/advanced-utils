@@ -1,0 +1,20 @@
+{
+  "name": "advanced-utils",
+  "version": "1.0.0",
+  "description": "js的常用工具和方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyxdream/advanced-utils.git"
+  },
+  "keywords": [],
+  "author": "lyxdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyxdream/advanced-utils/issues"
+  },
+  "homepage": "https://github.com/lyxdream/advanced-utils#readme"
+}
